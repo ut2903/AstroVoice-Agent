@@ -117,22 +117,6 @@ venv\Scripts\activate      # Windows
 pip install -r requirements.txt
 ```
 
----
-
-### 4. Configure environment
-
-Create `.env` file:
-
-```env
-REDIS_HOST=
-REDIS_PASSWORD=
-
-AZURE_OPENAI_API_KEY=
-AZURE_OPENAI_ENDPOINT=
-
-PROKERALA_CLIENT_ID=
-PROKERALA_CLIENT_SECRET=
-```
 
 ---
 
